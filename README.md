@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Debanuj Roy</h1>
----
 
-- 🌱 I’m currently learning **ML Algorithms and GEN AI**
+- 🌱 I’m currently a Pre-Final year student at **NIT Durgapur** with an immense hunger for learning in the field of **AI/ML and Data Science**
 - 📫 Reach me at **debanujroy1234@gmail.com**
-- ⚡ Fun fact: **Still learning...**
+- ⚡ **Still learning...**
 
 ---
-
 ### 🌐 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/debanuj-roy-b3709b275" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
 ---
+
 
 ### 🛠 Languages & Tools
 <p>
@@ -40,7 +38,12 @@
 ---
 
 ### 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiAllAlone&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiAllAlone&layout=compact&theme=gotham)
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaiAllAlone&theme=github-compact)
+<table>
+  <tr>
+<td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaiAllALone&theme=gotham" alt="Debanuj's GitHub Stats"></td>
+<td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaiAllAlone&theme=gotham" alt="Debanuj's GitHub Stats"></td>
+  </tr>
+</table>
+<img style="border: none;" src="https://github-readme-activity-graph.vercel.app/graph?username=KaiAllAlone&theme=github-compact" alt="Debanuj's GitHub Stats">
+
 
