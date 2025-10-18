@@ -10,8 +10,6 @@
   <a href="https://www.linkedin.com/in/debanuj-roy-b3709b275" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 ---
-[![An image of @kaiallalone's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaiallalone)](https://holopin.io/@kaiallalone)
-
 ### 🛠 Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -46,5 +44,5 @@
   </tr>
 </table>
 <img style="border: none;" src="https://github-readme-activity-graph.vercel.app/graph?username=KaiAllAlone&theme=github-compact" alt="Debanuj's GitHub Stats">
-
+<img src="https://holopin.me/kaiallalone">
 
