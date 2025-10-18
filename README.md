@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats
 <table>
   <tr>
-<td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaiAllALone&theme=gotham" alt="Debanuj's GitHub Stats"></td>
+<td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaiAllAlone&theme=github_dark" alt="smarak's GitHub Stats"/></td>
 <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaiAllAlone&theme=gotham" alt="Debanuj's GitHub Stats"></td>
   </tr>
 </table>
