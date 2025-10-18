@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/debanuj-roy-b3709b275" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 ---
-
+[![An image of @kaiallalone's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaiallalone)](https://holopin.io/@kaiallalone)
 
 ### 🛠 Languages & Tools
 <p>
