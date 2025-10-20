@@ -45,7 +45,15 @@
 <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaiAllAlone&theme=github_dark" alt="smarak's GitHub Stats"/></td>
 <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaiAllAlone&theme=gotham" alt="Debanuj's GitHub Stats"></td>
   </tr>
-</table>
+  </table>
+<div align="center">
+  <img 
+    src="https://streak-stats.vercel.app?user=KaiAllAlone&theme=gotham&hide_border=true" 
+    alt="GitHub Streak" 
+    height="170" 
+    style="display: block; margin: auto; border: none;"
+  />
+</div>
 <img style="border: none;" src="https://github-readme-activity-graph.vercel.app/graph?username=KaiAllAlone&theme=github-compact" alt="Debanuj's GitHub Stats">
 <img src="https://holopin.me/kaiallalone">
 
