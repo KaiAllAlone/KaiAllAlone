@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-green?logo=langchain&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/pydantic-purple?logo=pydantic&logoColor=white&style=for-the-badge">
   
