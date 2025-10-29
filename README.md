@@ -42,7 +42,7 @@
 
 ## GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiallalone&theme=gitdimmed&no-bg=true" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kaiallalone&theme=matrix&no-bg=true" alt="Trophies"/>
 </p>
 
 ---
